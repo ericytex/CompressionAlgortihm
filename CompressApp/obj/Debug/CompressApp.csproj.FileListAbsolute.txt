@@ -1,0 +1,9 @@
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\bin\Debug\CompressApp.exe
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\bin\Debug\CompressApp.pdb
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\bin\Debug\Ghostscript.NET.dll
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\bin\Debug\Ghostscript.NET.xml
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\obj\Debug\CompressApp.csprojAssemblyReference.cache
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\obj\Debug\CompressApp.csproj.CoreCompileInputs.cache
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\obj\Debug\CompressApp.csproj.CopyComplete
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\obj\Debug\CompressApp.exe
+C:\Users\ewaty\source\repos\PDFCompressor\CompressApp\obj\Debug\CompressApp.pdb
